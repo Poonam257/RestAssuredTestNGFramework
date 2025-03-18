@@ -6,7 +6,7 @@
       - git:
           url: "git@github.com:https://github.com/Poonam257/RestAssuredTestNGFramework.git"
           branches:
-            - "*/main"
+            - "*/master"
     triggers:
       - githubPush()
     steps:
